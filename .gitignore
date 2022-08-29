@@ -1,0 +1,10 @@
+#ignore everything
+*
+
+#unignore files to track
+
+
+!main.py
+!main.cpp
+!.gitignore
+
